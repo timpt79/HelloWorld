@@ -8,7 +8,7 @@ import hello.Hello;
 
 /**
  * Making a change to see what works
- * 
+ * just another test
  * @author Tim
  */
 public class Main {
